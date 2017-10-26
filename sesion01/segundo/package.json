@@ -1,0 +1,6 @@
+{
+    "name": "rgu-mi-modulo-nodejs",
+    "version": "0.0.2",
+    "author": "Rafael Uzcategui",
+    "bin": "index.js"
+}

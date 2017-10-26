@@ -1,0 +1,1 @@
+console.log('Bienvenidos, este es mi primer modulo creado para NPM oNode.js');
